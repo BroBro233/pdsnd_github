@@ -10,7 +10,7 @@
 The project is an interactive program that shows statistics to the user about bikshare bike rentals
 
 ### Files used
-Include the files used
+This project used files from the udacity course: "Programing for data science with python"
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
