@@ -23,16 +23,16 @@ def get_city():
          
         if city == 'new york city' or city ==  'chicago' or city == 'washington':
             break
+
         else:
             print('that is not a valid input please select one of the 3 possible cities: New York City, Chicago or Washington')
-    # get user input for month (all, january, february, ... , june)
-
+    
     return city
 def get_month():
     month = ''
     while True:
         month = input("Would you like to look at data for january, february, march, april, may , june or all months? please type in a name of the month or all for all months ").lower()
-     
+        
         if month == 'january' or month ==  'february' or month ==  'march' or month == 'april' or month == 'may' or month == 'june' or month == 'all':
             break
         else:
