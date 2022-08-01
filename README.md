@@ -7,7 +7,7 @@
 
 
 ### Description
-Describe what your project is about and what it does
+The project is an interactive program that shows statistics to the user about bikshare bike rentals
 
 ### Files used
 Include the files used
