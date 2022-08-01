@@ -39,6 +39,7 @@ def get_month():
             print('that is not a valid input please select one of the 6 possible or type in all')
     return month
 def get_day():
+    # get user input for day (monday, tuesday, wensday, ... , sunday)
     day = ''
     while True:
         day = input("Would you like to look at data for a specific day of the week or all days? please type in a name of a day or all for all days ").lower()
