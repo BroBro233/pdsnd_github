@@ -3,7 +3,7 @@
 ### Date created
 8/1/2022
 
-### Bikeshare Udacity project
+### Bikeshare project
 
 
 ### Description
